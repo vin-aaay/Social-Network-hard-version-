@@ -16,6 +16,7 @@ main()
     int arr[n];
     map<int,int>mp;
     list<int>q;
+    //Running For Loop
     for(i=0;i<n;i++)
     {
         cin>>arr[i];
