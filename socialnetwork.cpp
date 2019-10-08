@@ -1,7 +1,6 @@
 //copyright sumitraj387
 #include<bits/stdc++.h>
 using namespace std;
-#define int long long int
 #define pb push_back//_____standard_template____
 #define come_on ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0); //___________program booster_________
 #define pop pop_back
