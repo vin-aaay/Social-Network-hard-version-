@@ -38,6 +38,15 @@ main()
         }
  
     }
+    int m;
+    cin>>m;
+    int array[1000]={0};
+    for(int i=0;i<m;i++)
+    {
+        if(array[i]==0)
+        {
+            cout<<"h";
+    }
     
     cout<<q.size()<<"\n";
     for(auto it=q.begin();it!=q.end();it++)
