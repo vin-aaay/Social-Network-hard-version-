@@ -17,10 +17,12 @@ main()
     ll arrwww[101];
     for(i=0;i<10;i++) arrwww[i]=0;
     cin>>n>>k;
-    ll arr[n];
+   // ll arr[n];
     map<ll,ll>mp;
-    list<ll>q;
+   // list<ll>q;
     //Running For Loop
+  //vijay
+    
     for(i=0;i<n;i++)
     {
         cin>>arr[i];
