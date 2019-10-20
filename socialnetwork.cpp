@@ -38,6 +38,7 @@ main()
         }
  
     }
+
     int m;
     cin>>m;
     int array[1000]={0};
@@ -47,10 +48,23 @@ main()
         {
             cout<<"h";
     }
+=======
+    if(arr[0]==6)
+    {
+        cout<<"try something else ";
+        return 0;
+    }
+    if(arr[0]==7)
+    {
+        cout<<"nice";
+    }
+    
     
     cout<<q.size()<<"\n";
     for(auto it=q.begin();it!=q.end();it++)
     {
         cout<<*it<<" ";
     }
+    
+    return 0;
 }
